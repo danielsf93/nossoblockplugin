@@ -1,3 +1,3 @@
 # nossoblockplugin
 
-plugin genérico para ojs. Tutorial de criação
+plugin de bloco para ojs. Tutorial de criação
